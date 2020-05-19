@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; AnilBorra Soft Solutions 2020</p>
 	</footer>
 </div>
 
